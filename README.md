@@ -1,2 +1,21 @@
 # Smart-Alarm-Clock-Web-App
-A feature-rich Smart Alarm Clock web application designed to prevent oversleeping through randomized math verification challenges. Built with vanilla JS and Tailwind CSS.
+
+Next alarm None set
+
+## New alarm
+
+Time
+
+Label
+
+Repeat
+
+## Your alarms
+
+Alarm ringing
+
+## Alarm
+
+Solve this to switch it off
+
+Your browser is holding back the sound. Click or tap anywhere on this page to turn it on.
